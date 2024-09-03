@@ -14,7 +14,6 @@ Clone este repositório para o seu ambiente local.
 
 
 git clone https://github.com/avilajp/ProjetoPokemon
-cd seu-repositorio
 
 ### Passo 2: Construir e Iniciar os Containers
 Use o Docker Compose para construir as imagens e iniciar os containers.
