@@ -13,7 +13,7 @@ Este projeto consiste em uma aplicação web full stack desenvolvida como parte 
 Clone este repositório para o seu ambiente local.
 
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/avilajp/ProjetoPokemon
 cd seu-repositorio
 
 ### Passo 2: Construir e Iniciar os Containers
